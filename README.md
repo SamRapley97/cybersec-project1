@@ -18,7 +18,7 @@ https://github.com/EONRaider/100-redteam-projects.
 
 ## Main difficulty
 
-> **Ensuring that the server continued working when one of the connections was terminated **
+> **Ensuring that the server continued working when one of the connections was terminated**
 
 ## What I've gained
 
