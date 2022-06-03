@@ -6,7 +6,7 @@
 
 ## What this project is:
 
-- This project is a TCP server that facilitates the sending an receiving of messages.
+- This project is a TCP server that facilitates the sending and receiving of messages.
 
 ## Why am I doing it:
 
@@ -22,7 +22,7 @@ https://github.com/EONRaider/100-redteam-projects.
 
 ## What I've gained
 
-> **A greater understanding of how servers work**
+> **A greater understanding of how a TCP server works**
 
 &nbsp;
 
