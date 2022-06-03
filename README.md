@@ -6,7 +6,7 @@
 
 ## What this project is:
 
-- This project is a TCP server facilitates the sending an receiving of messages.
+- This project is a TCP server that facilitates the sending an receiving of messages.
 
 ## Why am I doing it:
 
