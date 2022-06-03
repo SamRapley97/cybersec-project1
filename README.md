@@ -2,7 +2,6 @@
 
 &nbsp;
 
-&nbsp;
 
 ## What this project is:
 
